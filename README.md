@@ -36,4 +36,4 @@ Clara solves this by:
 ---
 
 ## 📫 Contact
-your@email.com
+kitty7102@daum.net
