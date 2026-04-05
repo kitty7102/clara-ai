@@ -7,9 +7,9 @@ It is optimized for Korean language understanding with multilingual support.
 ---
 
 ## 🚀 Features
-- Real-time web search  
-- Content extraction & cleaning  
-- RAG-based answer generation  
+- Real-time web search
+- Content extraction & cleaning
+- RAG-based answer generation
 
 ---
 
@@ -24,9 +24,9 @@ Traditional LLMs often hallucinate or use outdated data.
 
 Clara solves this by:
 
-- Fetching real-time information  
-- Cleaning and ranking content  
-- Feeding structured data into LLM  
+- Fetching real-time information
+- Cleaning and ranking content
+- Feeding structured data into LLM
 
 ---
 
